@@ -26,7 +26,16 @@ These fields enabled the creation of meaningful and informative visualizations t
 - Line charts showing *monthly delay trends*.  
 - Bar charts comparing delays across *airlines and airports*.  
 - Geographic maps highlighting *delay hotspots*.  
-- Treemaps and heatmaps to show *delay types and their frequency*.  
+- Treemaps and heatmaps to show *delay types and their frequency*.
+
+## Data Output:
+Saved the Tableau visualizations to my Tableau Public account and also exported the visualizations in .pptx format which are uploaded in this repository.
+You can also access them using the below links.
+https://public.tableau.com/views/DataVisualizationsusingBarChartData/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/DataVisualizationsusingLineChartData/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/DataVisualizationusingMapdata/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Insights  
 - Certain airlines exhibited consistently higher delays.  
